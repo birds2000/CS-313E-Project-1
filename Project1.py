@@ -1,12 +1,12 @@
 """
 # File: Project1.py
-# Description: 
+# Description: Analyzes a csv.file on Salaries depending on education level and gender.
 # Student Names: Katharine Smith and Isabelle Svendsen
 # Student EIDs: kbs2529, iks249
 # Course Name: CS 313E
-# Unique Number: 
+# Unique Number: 54595 
 # Date Created: 11/5/2025
-# Date Last Modified: 
+# Date Last Modified: 11/14/25
 """
 from pathlib import Path
 from collections import namedtuple, defaultdict
