@@ -1,8 +1,8 @@
 """
 # File: Project1.py
 # Description: 
-# Student Names: Katharine Smith and Isabel Svendsen
-# Student EIDs: kbs2529, 
+# Student Names: Katharine Smith and Isabelle Svendsen
+# Student EIDs: kbs2529, iks249
 # Course Name: CS 313E
 # Unique Number: 
 # Date Created: 11/5/2025
